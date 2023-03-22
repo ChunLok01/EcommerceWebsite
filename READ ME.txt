@@ -1,0 +1,4 @@
+1 - Import project.sql from the Database folder
+2 - Copy CAPS folder and Paste it into htdocs folder
+3 - open browser and write url as below :
+localhost/CAPS/index.php
